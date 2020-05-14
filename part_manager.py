@@ -1,3 +1,6 @@
+# Autor: Łukasz Nowacki vel banan
+# Data: 14.05.2020
+
 from tkinter import *
 from tkinter import messagebox
 from db import Database
